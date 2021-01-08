@@ -1,0 +1,11 @@
+{
+  "status": {
+    "id": 426,
+    "application": "tcui",
+    "sessionId": "1234567890",
+    "msisdn": "+436648166583",
+    "locked": true,
+    "user": "admin",
+    "operator": "AT_MOBILKOM"
+  }
+}

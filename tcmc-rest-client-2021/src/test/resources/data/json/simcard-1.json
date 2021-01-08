@@ -1,0 +1,15 @@
+{
+  "class": "tcmc.SimCard",
+  "id": 1,
+  "balance": null,
+  "imsi": null,
+  "inventoryNumber": null,
+  "msisdn": "+436648166583",
+  "operator": {
+    "class": "tcmc.Operator",
+    "id": 1,
+    "internalName": "AT_MOBILKOM",
+    "operationModes": []
+  },
+  "paymentType": null
+}

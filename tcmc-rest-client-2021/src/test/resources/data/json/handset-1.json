@@ -1,0 +1,43 @@
+{
+  "class": "tcmc.Handset",
+  "id": 1,
+  "hostname": "at.tc.dimoco.at",
+  "inventoryNumber": null,
+  "model": {
+    "class": "tcmc.HandsetManufactorer",
+    "id": 1,
+    "manufactorer": "Motorola",
+    "model": "Moto G"
+  },
+  "password": "dim2014",
+  "serialnumber": "TA929035HM",
+  "simcard": {
+    "class": "tcmc.SimCard",
+    "id": 1,
+    "balance": null,
+    "imsi": null,
+    "inventoryNumber": null,
+    "msisdn": "+436648166583",
+    "operator": {
+      "class": "tcmc.Operator",
+      "id": 1,
+      "internalName": "AT_MOBILKOM",
+      "operationModes": []
+    },
+    "paymentType": null
+  },
+  "status": {
+    "class": "tcmc.HandsetStatus",
+    "id": 3,
+    "age": 0,
+    "androidVersion": "4.4.2",
+    "appVersion": "1.0.2",
+    "batteryLevel": 1,
+    "isCharging": true,
+    "lastUpdated": "2014-08-26T07:00:08Z",
+    "networkType": 15,
+    "signalStrength": 4,
+    "simState": 5
+  },
+  "vncport": 5911
+}

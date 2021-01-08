@@ -1,0 +1,13 @@
+{
+  "online": true,
+  "signalStrength": 4,
+  "charging": true,
+  "simState": "READY",
+  "batteryLevel": "100%",
+  "networkType": "HSPAP",
+  "appVersion": "1.0.2",
+  "appVersionStatus": "OK",
+  "androidVersion": "4.4.2",
+  "lastUpdated": "1409036408822",
+  "age": "2030"
+}

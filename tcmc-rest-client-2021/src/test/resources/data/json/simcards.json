@@ -1,0 +1,47 @@
+[
+  {
+    "class": "tcmc.SimCard",
+    "id": 1,
+    "balance": null,
+    "imsi": null,
+    "inventoryNumber": null,
+    "msisdn": "+436648166583",
+    "operator": {
+      "class": "tcmc.Operator",
+      "id": 1,
+      "internalName": "AT_MOBILKOM",
+      "operationModes": []
+    },
+    "paymentType": null
+  },
+  {
+    "class": "tcmc.SimCard",
+    "id": 2,
+    "balance": null,
+    "imsi": null,
+    "inventoryNumber": null,
+    "msisdn": "+436769452730",
+    "operator": {
+      "class": "tcmc.Operator",
+      "id": 2,
+      "internalName": "AT_TMOBILE",
+      "operationModes": []
+    },
+    "paymentType": null
+  },
+  {
+    "class": "tcmc.SimCard",
+    "id": 3,
+    "balance": null,
+    "imsi": null,
+    "inventoryNumber": null,
+    "msisdn": "+436603676759",
+    "operator": {
+      "class": "tcmc.Operator",
+      "id": 3,
+      "internalName": "AT_HUTCHISON",
+      "operationModes": []
+    },
+    "paymentType": null
+  }
+]

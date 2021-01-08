@@ -1,0 +1,86 @@
+{
+  "id": 1,
+  "name": "Testcenter AT",
+  "hostname": "at.tc.dimoco.at",
+  "sshPort": 22222,
+  "handsets": [
+    {
+      "id": 1,
+      "serialnumber": "TA929035HM",
+      "hostname": "at.tc.dimoco.at",
+      "vncport": 5911,
+      "password": "dim2014",
+      "model": {
+        "id": 1,
+        "manufactorer": "Motorola",
+        "model": "Moto G"
+      },
+      "simcard": {
+        "id": 1,
+        "msisdn": "+436648166583",
+        "balance": null,
+        "operator": {
+          "id": 1,
+          "internalName": "AT_MOBILKOM",
+          "operationModes": []
+        },
+        "paymentType": null
+      }
+    },
+    {
+      "id": 2,
+      "serialnumber": "TA9290KDB0",
+      "hostname": "at.tc.dimoco.at",
+      "vncport": 5913,
+      "password": "dim2014",
+      "model": {
+        "id": 1,
+        "manufactorer": "Motorola",
+        "model": "Moto G"
+      },
+      "simcard": {
+        "id": 2,
+        "msisdn": "+436769452730",
+        "balance": null,
+        "operator": {
+          "id": 2,
+          "internalName": "AT_TMOBILE",
+          "operationModes": []
+        },
+        "paymentType": null
+      }
+    },
+    {
+      "id": 3,
+      "serialnumber": "TA9290HAV1",
+      "hostname": "at.tc.dimoco.at",
+      "vncport": 5912,
+      "password": "dim2014",
+      "model": {
+        "id": 1,
+        "manufactorer": "Motorola",
+        "model": "Moto G"
+      },
+      "simcard": {
+        "id": 3,
+        "msisdn": "+436603676759",
+        "balance": null,
+        "operator": {
+          "id": 3,
+          "internalName": "AT_HUTCHISON",
+          "operationModes": []
+        },
+        "paymentType": null
+      }
+    }
+  ],
+  "contactAddress": "Dimoco HQ",
+  "contactPhone": "+43 1 1234567890",
+  "contactName": "Christian Leyrer",
+  "contactCompany": "Dimoco Europe GmbH",
+  "model": {
+    "id": 1,
+    "manufactorer": "ASUS",
+    "model": "VM40B"
+  }
+}

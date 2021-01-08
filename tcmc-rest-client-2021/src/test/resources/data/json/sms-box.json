@@ -1,0 +1,2822 @@
+[
+  {
+    "id": 24,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "Test OUT",
+    "received": "2014-08-06T09:06:53Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 25,
+    "application": "tcui",
+    "from": "+381645983417",
+    "to": "+436648166583",
+    "message": "Hi mobilcom!",
+    "received": "2014-08-06T09:07:27Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 28,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Ide",
+    "received": "2014-08-06T19:39:31Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 29,
+    "application": "ditesto",
+    "from": "0660303030",
+    "to": "+436603676759",
+    "message": "Herzlichen Glückwunsch zum Geburtstag! Um diesen Tag mit Ihnen zu feiern, schenkt 3 Ihnen 10 gratis MMS (gültig 30 Tage). Damit können Sie Ihren Lieben die schönsten Fotos von Ihrer Geburtstagsfeier direkt aufs Handy schicken. Viel Spaß, Ihr Inside3 Team",
+    "received": "2014-08-07T08:02:29Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 30,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T09:27:18Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 31,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T09:54:46Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 32,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T10:04:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 33,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T10:16:14Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 34,
+    "application": "ditesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T10:18:28Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 35,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T10:20:52Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 36,
+    "application": "ditesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T10:32:24Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 37,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T11:10:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 38,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST TEST",
+    "received": "2014-08-07T15:03:55Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 39,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST TEST",
+    "received": "2014-08-07T15:04:01Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 40,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T17:21:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 41,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T17:30:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 42,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T17:59:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 43,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-07T18:05:19Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 44,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test BPE",
+    "received": "2014-08-08T09:06:28Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 45,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649699023",
+    "message": "status 2014-08-11",
+    "received": "2014-08-11T08:17:39Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 46,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649699023",
+    "message": "status 2014-08-11 - test Nr. 2",
+    "received": "2014-08-11T08:19:15Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 47,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649699023",
+    "message": "status 2014-08-11 - test Nr. 3",
+    "received": "2014-08-11T08:19:32Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 48,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649699023",
+    "message": "status 2014-08-11 - test Nr. 4 (after having started VNC client on the WAP tab and switched back to the SMS tab)",
+    "received": "2014-08-11T08:21:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 49,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649996023",
+    "message": "status 2014-08-11 Test 5 (user sci, admin locks with running vnc session)",
+    "received": "2014-08-11T08:27:03Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 50,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649996023",
+    "message": "status 2014-08-11 Test 6 (user sci, admin locks with running vnc session)",
+    "received": "2014-08-11T08:27:24Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 51,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649996023",
+    "message": "status 2014-08-11 Test 7 (user sci, admin locks with running vnc session)",
+    "received": "2014-08-11T08:37:13Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 52,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test Bogdan",
+    "received": "2014-08-11T18:40:04Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 53,
+    "application": "tcui",
+    "from": "06646846443",
+    "to": "+436641793214",
+    "message": "Herzlich willkommen bei B.free! Unter http://www.a1.net/bfree/micro/bfm.html finden Sie alle wichtigen Informationen rund ums Thema B.free - von der Aufladung über die möglichen Tarife bis zur Abfrage Ihres Guthabens. Viel Spaß mit B.free!",
+    "received": "2014-08-12T06:01:41Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 54,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:04:14Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 55,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:05:50Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 56,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:12:06Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 57,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "12345678901234567890123456789012345678901234567890\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:12:35Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 58,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "ICH bin muede\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:14:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 59,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Hello there\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:15:31Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 60,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "1234567890123456789012345678901\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:17:52Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 61,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:18:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 62,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:20:44Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 63,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T10:21:05Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 64,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T10:25:41Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 65,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T10:26:04Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 66,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:12:49Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 67,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:14:31Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 68,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:18:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 69,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "12345678901234567890123456789012345678901234567890\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:19:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 70,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "ICH bin muede\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:21:30Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 71,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Hello there\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:21:56Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 72,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "1234567890123456789012345678901\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:24:20Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 73,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:24:46Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 74,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:27:15Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 75,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T11:27:39Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 76,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T11:32:35Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 77,
+    "application": "diTesto",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T11:32:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 78,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:13:27Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 79,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:15:17Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 80,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:20:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 81,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "12345678901234567890123456789012345678901234567890\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:20:31Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 82,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "ICH bin muede\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:22:53Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 83,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Hello there\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:23:19Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 84,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "1234567890123456789012345678901\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:25:45Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 85,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:28:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 86,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:28:31Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 87,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:30:55Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 88,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T13:35:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 89,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T13:35:47Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 90,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:43:26Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 91,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:45:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 92,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:49:14Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 93,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "12345678901234567890123456789012345678901234567890\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:49:37Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 94,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "ICH bin muede\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:51:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 95,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Hello there\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:52:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 96,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "1234567890123456789012345678901\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:54:46Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 97,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:57:13Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 98,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T13:57:34Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 99,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T14:00:00Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 100,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T14:04:25Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 101,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-12T14:04:46Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 102,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-12T14:54:55Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 103,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T11:53:40Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 104,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T11:54:36Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 105,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T11:56:51Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 106,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T11:59:17Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 107,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "12345678901234567890123456789012345678901234567890\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T11:59:40Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 108,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "ICH bin muede\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:00:04Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 109,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Hello there\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:00:25Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 110,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "1234567890123456789012345678901\nBestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:00:45Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 111,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:01:15Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 112,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:01:43Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 113,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-13T12:02:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 114,
+    "application": "tcui",
+    "from": "0900401030",
+    "to": "+436648166583",
+    "message": "Ditesto Test SMS Text",
+    "received": "2014-08-13T12:04:29Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 115,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 1x pro Tag)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-13T12:05:02Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 116,
+    "application": "tcui",
+    "from": "066468101079999",
+    "to": "+436648166583",
+    "message": "Bestätigen Sie EUR 0,01(Abo, 3x pro Woche)\nAntworten Sie mit JA! Abo beenden mit STOP",
+    "received": "2014-08-13T12:05:29Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 117,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T10:31:55Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 118,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T10:44:07Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 119,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T10:45:35Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 150,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T10:59:28Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 151,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T10:59:45Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 152,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T12:40:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 153,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T12:47:49Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 154,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T13:07:06Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 155,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T13:11:17Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 156,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T13:20:39Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 157,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T13:32:12Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 158,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T13:33:05Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 159,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T14:23:47Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 160,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T16:29:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 161,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T16:36:59Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 162,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T16:38:02Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 163,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-14T16:40:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 164,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock test",
+    "received": "2014-08-15T12:48:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 165,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock test",
+    "received": "2014-08-15T12:48:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 166,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST SMS",
+    "received": "2014-08-17T06:12:54Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 167,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST SMS",
+    "received": "2014-08-17T06:13:00Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 168,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST SMS",
+    "received": "2014-08-17T06:13:56Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 169,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "TEST SMS",
+    "received": "2014-08-17T06:14:02Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 170,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Lock test",
+    "received": "2014-08-18T07:45:50Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 171,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Ttest dev Lock",
+    "received": "2014-08-18T07:47:45Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 172,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "idemo",
+    "received": "2014-08-18T07:48:33Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 173,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test multiple",
+    "received": "2014-08-18T08:37:51Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 174,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test multiple",
+    "received": "2014-08-18T08:38:10Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 175,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test multiple",
+    "received": "2014-08-18T08:39:05Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 176,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "multiple again",
+    "received": "2014-08-18T08:48:14Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 177,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "38156789",
+    "message": "idemo",
+    "received": "2014-08-18T09:52:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 178,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test",
+    "received": "2014-08-18T09:53:43Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 179,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test multiple BPE",
+    "received": "2014-08-18T10:01:53Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 180,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "06649699023",
+    "message": "asdasdasdasdasd",
+    "received": "2014-08-19T09:05:13Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 181,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "06649699023",
+    "message": "asdasdasdasdasd",
+    "received": "2014-08-19T09:06:45Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 182,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T09:09:34Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 183,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T10:07:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 184,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T10:17:27Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 185,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T11:50:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 186,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T14:16:53Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 187,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T14:19:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 188,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T14:28:12Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 189,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T15:47:12Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 190,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T15:56:41Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 191,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T16:02:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 192,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-19T16:03:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 193,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock sms test",
+    "received": "2014-08-20T08:16:34Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 194,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock sms test",
+    "received": "2014-08-20T08:16:41Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 195,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T08:42:18Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 196,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T09:09:50Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 197,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436603676759",
+    "message": "Lock mobilkom test",
+    "received": "2014-08-20T09:11:50Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 198,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436603676759",
+    "message": "Lock mobilkom test",
+    "received": "2014-08-20T09:11:58Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 199,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:16Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 200,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:17Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 201,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:17Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 202,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:18Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 203,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:20Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 204,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:57Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 205,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+436603676759",
+    "message": "Lock all test",
+    "received": "2014-08-20T09:13:57Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 206,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T09:22:51Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 207,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:02:14Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 208,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:02:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 209,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:03:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 210,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:03:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 211,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:05:57Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 212,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:01Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 213,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:22Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 214,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:22Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 215,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:23Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 216,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:28Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 217,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:28Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 218,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Release lock test",
+    "received": "2014-08-20T10:06:30Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 219,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T10:53:31Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 220,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T10:53:36Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 221,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test multiple lock",
+    "received": "2014-08-20T10:56:40Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 222,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test multiple lock",
+    "received": "2014-08-20T10:56:40Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 223,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test multiple lock",
+    "received": "2014-08-20T10:56:43Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 224,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test multiple lock",
+    "received": "2014-08-20T10:56:44Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 225,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T11:00:43Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 226,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T11:00:44Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 227,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T11:00:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 228,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T11:00:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 229,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T11:11:54Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 230,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T11:11:55Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 231,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T11:11:57Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 232,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test test",
+    "received": "2014-08-20T11:12:00Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 233,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T11:13:24Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 234,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:19:05Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 235,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:19:05Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 236,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:19:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 237,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:19:09Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 238,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:20:41Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 239,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test 2",
+    "received": "2014-08-20T11:20:44Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 240,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test test test",
+    "received": "2014-08-20T11:33:21Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 241,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test test",
+    "received": "2014-08-20T11:33:21Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 242,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test test test",
+    "received": "2014-08-20T11:33:25Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 243,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test test test",
+    "received": "2014-08-20T11:33:25Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 244,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "proba",
+    "received": "2014-08-20T11:34:49Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 245,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436769452730",
+    "message": "proba",
+    "received": "2014-08-20T11:34:50Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 246,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436769452730",
+    "message": "proba",
+    "received": "2014-08-20T11:34:52Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 247,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436769452730",
+    "message": "proba",
+    "received": "2014-08-20T11:34:54Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 248,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "proba proba",
+    "received": "2014-08-20T11:42:07Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 249,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "proba proba",
+    "received": "2014-08-20T11:42:08Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 250,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "proba proba",
+    "received": "2014-08-20T11:42:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 251,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "proba proba",
+    "received": "2014-08-20T11:42:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 252,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test",
+    "received": "2014-08-20T11:48:17Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 253,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test",
+    "received": "2014-08-20T11:48:17Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 254,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "test",
+    "received": "2014-08-20T11:48:17Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 255,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "test",
+    "received": "2014-08-20T11:48:18Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 256,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T12:00:00Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 257,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T12:00:01Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 258,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T12:00:02Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 259,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+436648166583",
+    "message": "Test multiple lock release",
+    "received": "2014-08-20T12:00:05Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 260,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "Lock test",
+    "received": "2014-08-20T12:24:22Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 261,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "Test multiple lock",
+    "received": "2014-08-20T12:25:14Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 262,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "Test multiple lock",
+    "received": "2014-08-20T12:25:15Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 263,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+381645983417",
+    "message": "Test multiple lock",
+    "received": "2014-08-20T12:25:15Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 264,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T12:44:19Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 265,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381692454898",
+    "message": "Multiple lock test",
+    "received": "2014-08-20T13:05:54Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 266,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381692454898",
+    "message": "Multiple lock test",
+    "received": "2014-08-20T13:05:55Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 267,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T13:39:48Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 268,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "review multiple lock",
+    "received": "2014-08-20T14:00:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 269,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "review multiple lock",
+    "received": "2014-08-20T14:00:18Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 270,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+381645983417",
+    "message": "review multiple lock",
+    "received": "2014-08-20T14:00:19Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 271,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "multiple",
+    "received": "2014-08-20T14:04:45Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 272,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "multiple",
+    "received": "2014-08-20T14:04:45Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 273,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+381645983417",
+    "message": "multiple",
+    "received": "2014-08-20T14:04:46Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 274,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "single",
+    "received": "2014-08-20T14:05:10Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 275,
+    "application": "tcui",
+    "from": "+436648166583",
+    "to": "+381645983417",
+    "message": "bpe test",
+    "received": "2014-08-20T14:06:05Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 276,
+    "application": "tcui",
+    "from": "+436603676759",
+    "to": "+381645983417",
+    "message": "bpe test",
+    "received": "2014-08-20T14:06:06Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 277,
+    "application": "tcui",
+    "from": "+436769452730",
+    "to": "+381645983417",
+    "message": "bpe test",
+    "received": "2014-08-20T14:06:06Z",
+    "direction": "outgoing",
+    "handled": false
+  },
+  {
+    "id": 278,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T14:09:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 279,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T14:27:20Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 280,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T14:28:20Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 281,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T15:34:18Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 282,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T15:37:15Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 283,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:01:24Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 284,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:03:13Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 285,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:34:03Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 286,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:39:57Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 287,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:41:30Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 288,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:42:30Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 289,
+    "application": "tcui",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-20T16:43:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 290,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T08:58:44Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 322,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:24:06Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 323,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:24:55Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 324,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:25:45Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 325,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:26:17Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 326,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:35:36Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 327,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:36:02Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 328,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:36:22Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 329,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:38:04Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 330,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:38:36Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 331,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:39:04Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 332,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:40:44Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 333,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T09:41:08Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 334,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T11:42:59Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 335,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T12:34:16Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 336,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T12:34:40Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 337,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T13:50:29Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 338,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T13:54:15Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 339,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T15:33:01Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 340,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-21T15:33:19Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 341,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T08:32:50Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 342,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T08:33:16Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 343,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T08:33:31Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 344,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T08:50:39Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 345,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T08:53:00Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 346,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T09:12:33Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 347,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T09:13:01Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 348,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T09:13:19Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 349,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T09:15:51Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 350,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T09:18:11Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 351,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T11:53:51Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 352,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T11:55:52Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 353,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T11:56:09Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 383,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:13:33Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 384,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:13:49Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 385,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:20:35Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 386,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:20:52Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 387,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:32:01Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 388,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:34:24Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 389,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:39:40Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 390,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:40:10Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 391,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-22T12:40:26Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 392,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T13:29:50Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 393,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T15:06:46Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 394,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T15:33:40Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 395,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T15:38:53Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 396,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T15:39:23Z",
+    "direction": "incoming",
+    "handled": false
+  },
+  {
+    "id": 397,
+    "application": "ditesto",
+    "from": "+436601122770",
+    "to": "+436603676759",
+    "message": "Bestätigen Sie EUR 0,01\nAntworten Sie mit JA!",
+    "received": "2014-08-25T15:39:39Z",
+    "direction": "incoming",
+    "handled": false
+  }
+]

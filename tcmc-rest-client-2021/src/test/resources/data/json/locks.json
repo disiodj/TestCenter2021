@@ -1,0 +1,14 @@
+[
+    { 
+        "application" : tcui, 
+        "operator" : AT_MOBILKOM, 
+        "user" : admin, 
+        "sessionId" : 1234567890 
+    },
+    { 
+        "application" : tcui, 
+        "operator" : AT_TMOBILE, 
+        "user" : admin, 
+        "sessionId" : 1234567890 
+    }
+]
